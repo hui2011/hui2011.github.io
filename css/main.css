@@ -30,11 +30,10 @@ a.h:hover { color:#FF0000;text-decoration:underline;}
      -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
   display: none; 
-  padding: 6px;
 }
 #tiles li.inactive {visibility: hidden;opacity: 0;}
 #tiles li img {display: block;}
-#tiles li p {background:url(../images/nn.gif) no-repeat; padding-left:12px;line-height:16px; margin:5px 0 0 0;}
+#tiles li p {background:url(../images/nn.gif) no-repeat; padding-left:12px;line-height:16px; margin:8px 0 8px 0;}
 
 
 .bottom-txt{padding-left:200px;}
@@ -43,7 +42,7 @@ a.h:hover { color:#FF0000;text-decoration:underline;}
 
 
 /* 回到顶部 */
- #returnTop {
+#returnTop {
 	_display:none;
 	position:fixed;
 	_position:absolute;
